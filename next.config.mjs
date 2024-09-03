@@ -9,6 +9,9 @@ const nextConfig = {
 			},
 		];
 	},
+	images: {
+		domains: ['assets.leapwallet.io'],
+	},
 };
 
 export default nextConfig;
