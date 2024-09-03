@@ -1,4 +1,3 @@
-import "@leapwallet/react-ui/styles.css";
 import "./globals.css";
 
 export default function RootLayout({
